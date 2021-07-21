@@ -11,7 +11,7 @@
 
 ![Aaditya's github stats](https://github-readme-stats.vercel.app/api?username=aadityasinha-dotcom&show_icons=true&hide_border=true)
 <br />
-## connect with me 
+## Connect With Me 
 <a href="https://twitter.com/AadityaSinha16" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com" /></a> 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aadityasinha-dotcom.aadityasinha-dotcom)
