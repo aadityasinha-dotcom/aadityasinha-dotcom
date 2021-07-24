@@ -12,10 +12,10 @@
 ![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadityasinha-dotcom&count_private=true&theme=radical)
 <br />
 ## Connect With Me 
-  <a href="https://twitter.com/Salonix__">
+  <a href="https://twitter.com/AadityaSinha16__">
     <img align="left" alt="Saloni Gupta | Twitter" width="26px" src="Assets/Twitter.svg" />
   </a>
-  <a href="mailto:saloniguptasg12@gmail.com">
+  <a href="mailto:aadityasinha009@gmail.com">
     <img align="left" alt="Saloni Gupta | Gmail" width="26px" src="/Assets/Gmail.svg" />
   </a>
 
