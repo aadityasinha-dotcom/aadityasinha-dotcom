@@ -11,8 +11,6 @@
 
 ![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadityasinha-dotcom&count_private=true&theme=radical)
 
-![](https://github.com/aadityasinha-dotcom/github-stats/blob/master/generated/overview.svg)
-
 <br />
 ## Connect With Me 
   <a href="https://twitter.com/AadityaSinha16">
