@@ -13,14 +13,6 @@
 <br />
 
 ## Connect With Me 
-  <a href="https://twitter.com/AadityaSinha16">
-    <img align="left" alt="Aaditya Sinha | Twitter" width="26px" src="Assets/Twitter.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/aaditya-sinha-9a5490137/">
-    <img align="left" alt="Aaditya Sinha | Linkedin" width="26px" src="Assets/Linkedin.svg" />
-  </a>
-  <a href="mailto:aadityasinha009@gmail.com">
-    <img align="left" alt="Aaditya Sinha | Gmail" width="26px" src="/Assets/Gmail.svg" />
-  </a>
+<a href="https://www.linkedin.com/in/aaditya-sinha-9a5490137/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://twitter.com/AadityaSinha16" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://polywork.com/dwvicy" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/EEo2g39.png" width=40px height=40px title="source: imgur.com" /></a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aadityasinha-dotcom.aadityasinha-dotcom)
