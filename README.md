@@ -16,6 +16,9 @@
   <a href="https://twitter.com/AadityaSinha16">
     <img align="left" alt="Aaditya Sinha | Twitter" width="26px" src="Assets/Twitter.svg" />
   </a>
+  <a href="https://www.linkedin.com/in/aaditya-sinha-9a5490137/">
+    <img align="left" alt="Aaditya Sinha | Linkedin" width="26px" src="Assets/Linkedin.svg" />
+  </a>
   <a href="mailto:aadityasinha009@gmail.com">
     <img align="left" alt="Aaditya Sinha | Gmail" width="26px" src="/Assets/Gmail.svg" />
   </a>
