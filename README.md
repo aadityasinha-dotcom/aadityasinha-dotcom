@@ -21,4 +21,6 @@
 <a href="https://www.codechef.com/users/hacker08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aadityasinha009" height="30" width="40" /></a>
 <a href="mailto:aadityasinha009@gmail.com" target="blank"><img align="center" src="/Assets/Gmail.svg" alt="aadityasinha009" height="30" width="40" /></a>
 
+  ![Visit counter](https://count.getloli.com/get/@:aadityasinha-dotcomGitHub?theme=rule34)
+  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aadityasinha-dotcom.aadityasinha-dotcom)
