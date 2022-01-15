@@ -11,6 +11,8 @@
 
 ![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadityasinha-dotcom&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityasinha-dotcom&layout=compact)](https://github.com/aadityasinha-dotcom/github-readme-stats)
+
 <br />
 
 
