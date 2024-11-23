@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Aaditya!
+w## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Aaditya!
 
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
@@ -10,7 +10,6 @@
 ![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadityasinha-dotcom&show_icons=true&theme=radical)
 
 <br />
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
