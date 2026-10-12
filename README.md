@@ -3,7 +3,6 @@
 <p align="center">
 Full-stack engineer (2.5 yrs) building LLM products end to end: React/Next.js front ends, Python/FastAPI and Node backends on PostgreSQL, and the AI layer in between (RAG, agents, evaluation, observability).<br/>
 Four years of merged pull requests in open source, mostly the Zowe project under the Linux Foundation.<br/>
-Remote · Ghaziabad, India · <b>Available to join immediately</b>
 </p>
 
 <p align="center">
