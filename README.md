@@ -13,7 +13,6 @@ Four years of merged pull requests in open source, mostly the Zowe project under
 
 ## Open source
 
-
 | Project | Organisation | Merged PRs | What I contributed |
 |---|---|:--:|---|
 | [zowe-client-python-sdk](https://github.com/zowe/zowe-client-python-sdk/pulls?q=is%3Apr+author%3Aaadityasinha-dotcom+is%3Amerged) | Zowe · Open Mainframe Project (Linux Foundation) | **21** · 2022 → Sep 2026 | Nested team configuration with JSON-schema validation ([#144](https://github.com/zowe/zowe-client-python-sdk/pull/144)) · schema validation of `zowe.config.json` ([#192](https://github.com/zowe/zowe-client-python-sdk/pull/192)) · profile properties from env vars ([#200](https://github.com/zowe/zowe-client-python-sdk/pull/200)) · profile merge order matched to the Node SDK ([#203](https://github.com/zowe/zowe-client-python-sdk/pull/203)) · SDK APIs as context managers ([#283](https://github.com/zowe/zowe-client-python-sdk/pull/283)) · `responseTimeout` ([#369](https://github.com/zowe/zowe-client-python-sdk/pull/369)) · `commentjson` → `json5` ([#374](https://github.com/zowe/zowe-client-python-sdk/pull/374)) · USS path URI encoding ([#415](https://github.com/zowe/zowe-client-python-sdk/pull/415)) · z/OS jobs and files methods (create, cancel, delete, hold/release, change class, USS file and data set creation) |
